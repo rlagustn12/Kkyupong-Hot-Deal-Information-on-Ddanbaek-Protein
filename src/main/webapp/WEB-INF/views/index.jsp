@@ -100,7 +100,7 @@
 
   <header>
     <div class="overlay">
-      <h1>🔥 Protein Hot Deal Alert!</h1>
+      <h1>Protein Hot Deal Alert!</h1>
       <p>We've found an amazing offer exclusively for you. Act now before it's gone!</p>
       <button class="cta-button">Limited Time Only</button>
     </div>
