@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Protein Hot Deal</title>
+  <title>Ramen Hot Deal</title>
   <style>
     * {
       margin: 0;
@@ -20,11 +20,11 @@
     }
 
     header {
-      background-image: url('https://images.unsplash.com/photo-1528750997573-59b89d56f4f7'); 
+      background-image: url('https://images.unsplash.com/photo-1558892349-f0812740196e'); /* 라면 이미지 */
       background-size: cover;
-      background-position: center center;  /* 중앙 정렬 */
+      background-position: center center;
       background-repeat: no-repeat;
-      background-attachment: scroll; /* 또는 fixed */
+      background-attachment: scroll;
       height: 80vh;
       display: flex;
       justify-content: center;
@@ -100,16 +100,16 @@
 
   <header>
     <div class="overlay">
-      <h1>Protein Hot Deal Alert!</h1>
-      <p>We've found an amazing offer exclusively for you. Act now before it's gone!</p>
+      <h1>Ramen Hot Deal Alert!</h1>
+      <p>We've found an amazing ramen offer exclusively for you. Act now before it's gone!</p>
       <button class="cta-button">Limited Time Only</button>
     </div>
   </header>
 
   <section>
-    <h2>Why This Protein Deal Matters</h2>
+    <h2>Why This Ramen Deal Matters</h2>
     <p>
-      A limited-time opportunity to secure premium Protein products. Act quickly and stay ahead of demand across our global branches.
+      A limited-time opportunity to secure delicious premium ramen. Act quickly and stay ahead of demand across our global branches.
     </p>
   </section>
 
@@ -119,3 +119,4 @@
 
 </body>
 </html>
+
